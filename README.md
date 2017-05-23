@@ -1,2 +1,3 @@
 # fileUploadCheck
-class to check uploaded files
+
+Class can be used to check uploaded files to server
